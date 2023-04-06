@@ -1,7 +1,7 @@
 # NS-Dial
 
 This is the code repository for the paper:
-**An Interpretable Neuro-Symbolic Framework for Task-Oriented Dialogue Generation**. ***ACL 2022***. 
+**An Interpretable Neuro-Symbolic Framework for Task-Oriented Dialogue Generation**. ***ACL 2023***. 
 
 
 ## Framework
